@@ -7,7 +7,7 @@
 # Let’s make a program to calculate the distance traveled based on speed and determine how many points they’d receive if they went that distance.
 # Data In: Hill type, speed
 # Data Out: Points, designated message depending on points scored.
-# Credits: Classwork
+# Credits: Class work, Lab
 
 #import math
 import math
