@@ -2,10 +2,12 @@
 # Course:  CS151
 # Due Date: 10/4/2024
 # Lab Assignment: Lab 03
-# Problem Statement:
-# Data In:
-# Data Out:
-# Credits:
+# Problem Statement: Winter is coming! One winter sport is the ski jump, where the score is determined by the distance traveled after skiing down a ramp and into the air.
+# What type of speed does a ski jumper need to achieve on the ramp to make a good distance on their jump?
+# Let’s make a program to calculate the distance traveled based on speed and determine how many points they’d receive if they went that distance.
+# Data In: Hill type, speed
+# Data Out: Points, designated message depending on points scored.
+# Credits: Classwork
 
 #import math
 import math
@@ -15,7 +17,7 @@ import math
 hill_type = input('enter hill type ')
 speed = int(input('enter speed '))
 
-#hill type if statments
+#hill type if statements, height, points, and par
 if hill_type == 'normal':
     height = 46
     points_meter = 2
