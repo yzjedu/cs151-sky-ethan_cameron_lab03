@@ -3,6 +3,6 @@
   # Due Date:
   # Lab Assignment:
   # Problem Statement:
-  # Data In:
-  # Data Out:
+  # Data In: hill type, speed
+  # Data Out: points, message depending on points
   # Credits:
